@@ -1,0 +1,9 @@
+[wrap-git]
+
+directory = safeint
+url=https://github.com/randydu/meson-safeint.git
+revision = v3.0.27
+clone-recursive = true
+
+[provide]
+safeint = safeint_dep
